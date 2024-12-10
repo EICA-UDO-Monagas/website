@@ -1,10 +1,9 @@
 {
-  "name": "my-vue-app",
-  "private": true,
-  "version": "0.0.0",
+  "name": "eica-udo-monagas-website",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start:dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
